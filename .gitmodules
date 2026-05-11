@@ -1,6 +1,0 @@
-[submodule "batmon-ha"]
-	path = batmon-ha
-	url = https://github.com/ericadi1/home-assistant-addons
-[submodule "influxdb-udp-relay"]
-        path = influxdb-udp-relay
-        url = https://github.com/fl4p/influxdb-udp-relay
